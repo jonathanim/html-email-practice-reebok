@@ -1,0 +1,19 @@
+{
+  "name": "html-emails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reebok-email.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanim/html-email-practice-reebok.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanim/html-email-practice-reebok/issues"
+  },
+  "homepage": "https://github.com/jonathanim/html-email-practice-reebok#readme"
+}
